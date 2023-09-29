@@ -1,2 +1,2 @@
 # CV
-Frontend HTML CSS TEMPLATE DESIGN
+Static Portfolio Design 
